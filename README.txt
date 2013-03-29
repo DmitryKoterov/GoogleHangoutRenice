@@ -7,5 +7,5 @@ and sets low priority and single-CPU affinity mask to it. This makes the
 system much more responsible on slow computers with no side effects.
 
 If your computer becomes slow when you use Google Hangout, just put
-this program to your Startup folder. It will remain in background to
-make Google Hangout less greedy.
+GoogleHangoutRenice.exe to your Startup folder. It will remain in background
+to make Google Hangout less greedy.
