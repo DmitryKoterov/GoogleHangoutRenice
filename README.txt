@@ -10,6 +10,10 @@ If your computer becomes slow when you use Google Hangout, just put
 GoogleHangoutRenice.exe to your Startup folder. It will remain in background
 to make Google Hangout less greedy.
 
+And - of course! - run Google Hangout in Chrome or (surprise!) Internet
+Explorer 9+, not in Firefox, because Firefox is damned slow working
+with Google Hangout.
+
 The program GoogleHangoutRenice.exe has no window and no tray icon, it
 just runs in the background and makes you less angry. If you want to stop
 it, simply kill its process in Windows Task Manager (could be opened by
